@@ -3,4 +3,4 @@ functions = "functions"
 
 [build.environment]
 NODE_ENV = "development"
-MONGO_URI = "mongodb+srv://kaveen:kaveen123@netlify-deploy.lzdnu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://kaveen:kaveen123@netlify-deploy.lzdnu.mongodb.net/netlifyTest?retryWrites=true&w=majority"
